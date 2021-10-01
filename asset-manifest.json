@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/reactPoker/static/js/main.181f3e17.chunk.js",
-    "main.js.map": "/reactPoker/static/js/main.181f3e17.chunk.js.map",
+    "main.js": "/reactPoker/static/js/main.115173c0.chunk.js",
+    "main.js.map": "/reactPoker/static/js/main.115173c0.chunk.js.map",
     "runtime-main.js": "/reactPoker/static/js/runtime-main.f2e39a5b.js",
     "runtime-main.js.map": "/reactPoker/static/js/runtime-main.f2e39a5b.js.map",
     "static/css/2.818011ed.chunk.css": "/reactPoker/static/css/2.818011ed.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f2e39a5b.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.07fc582b.chunk.js",
-    "static/js/main.181f3e17.chunk.js"
+    "static/js/main.115173c0.chunk.js"
   ]
 }
